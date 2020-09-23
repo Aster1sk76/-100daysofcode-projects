@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\bloodDonorLoad\bloodDonorLoad\bin\Debug\bloodDonorLoad.exe.config
+C:\Users\admin\source\repos\bloodDonorLoad\bloodDonorLoad\bin\Debug\bloodDonorLoad.exe
+C:\Users\admin\source\repos\bloodDonorLoad\bloodDonorLoad\bin\Debug\bloodDonorLoad.pdb
+C:\Users\admin\source\repos\bloodDonorLoad\bloodDonorLoad\obj\Debug\bloodDonorLoad.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\bloodDonorLoad\bloodDonorLoad\obj\Debug\bloodDonorLoad.Form1.resources
+C:\Users\admin\source\repos\bloodDonorLoad\bloodDonorLoad\obj\Debug\bloodDonorLoad.Properties.Resources.resources
+C:\Users\admin\source\repos\bloodDonorLoad\bloodDonorLoad\obj\Debug\bloodDonorLoad.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\bloodDonorLoad\bloodDonorLoad\obj\Debug\bloodDonorLoad.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\bloodDonorLoad\bloodDonorLoad\obj\Debug\bloodDonorLoad.exe
+C:\Users\admin\source\repos\bloodDonorLoad\bloodDonorLoad\obj\Debug\bloodDonorLoad.pdb
