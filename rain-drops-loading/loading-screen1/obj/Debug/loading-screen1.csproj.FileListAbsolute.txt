@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\loading-screen1\loading-screen1\bin\Debug\loading-screen1.exe.config
+C:\Users\admin\source\repos\loading-screen1\loading-screen1\bin\Debug\loading-screen1.exe
+C:\Users\admin\source\repos\loading-screen1\loading-screen1\bin\Debug\loading-screen1.pdb
+C:\Users\admin\source\repos\loading-screen1\loading-screen1\obj\Debug\loading-screen1.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\loading-screen1\loading-screen1\obj\Debug\loading_screen1.Form1.resources
+C:\Users\admin\source\repos\loading-screen1\loading-screen1\obj\Debug\loading_screen1.Properties.Resources.resources
+C:\Users\admin\source\repos\loading-screen1\loading-screen1\obj\Debug\loading-screen1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\loading-screen1\loading-screen1\obj\Debug\loading-screen1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\loading-screen1\loading-screen1\obj\Debug\loading-screen1.exe
+C:\Users\admin\source\repos\loading-screen1\loading-screen1\obj\Debug\loading-screen1.pdb
